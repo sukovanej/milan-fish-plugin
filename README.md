@@ -10,10 +10,9 @@ A personal Fish shell plugin for Milan.
 ## Requirements
 
 - [eza](https://github.com/eza-community/eza) must be installed (`brew install eza`)
-- [jhillyerd/plugin-git](https://github.com/jhillyerd/plugin-git) — provides `gbda` and other git utilities
 
 ## Installation
 
 ```sh
-fisher install jhillyerd/plugin-git sukovanej/milan-fish-plugin
+fisher install sukovanej/milan-fish-plugin
 ```
