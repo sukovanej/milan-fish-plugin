@@ -6,7 +6,6 @@ A personal Fish shell plugin for Milan.
 
 - `l` — `eza -l` (long listing)
 - `ll` — `eza -lah` (long listing, all files, human-readable sizes)
-- `gbda` — Delete all branches merged into HEAD, including squash-merged ones (`--gone` flag deletes branches tracking gone remotes)
 
 ## Requirements
 
